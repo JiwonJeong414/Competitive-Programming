@@ -1,1 +1,1 @@
-# USACO
+# Competitive Programming
